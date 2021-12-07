@@ -1,6 +1,21 @@
-# LWJGL Template
+To run the game, first execute gradle.bat, then run Main.class
 
-🌟 This is a template for kick-starting a LWJGL project
+The game controls are:
+W - move forward
+A - move left
+D - move right
+S - move backwards
+Q - rotate anti-clockwise
+E - rotate clockwise
+Z - shoot
+O - rotate lower cannon anti-clockwise
+P - rotate lower cannon clockwise
+K - move upper cannon backwards
+L - move upper cannon forward
+
+The game used a template to kickstart, the template's description is below:
+
+# LWJGL Template
 
 ☕ This template is using Java 1.11
 
